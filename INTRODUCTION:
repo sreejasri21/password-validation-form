@@ -1,0 +1,18 @@
+Password validation is an essential aspect of web development to ensure data security. By using JavaScript to validate passwords, you can enhance the user experience and provide immediate feedback to users on the strength of their passwords.
+
+Sometimes password validation in a form is essential. You can create a password in different ways, its structure may be simple, reasonable, or strong. Here we validate various types of password structures through JavaScript codes and regular expression. 
+
+
+The following parameters are commonly used for password validation in any form.
+
+At Least one uppercase alphabet password.
+One numeric value must be used in the password.
+At Least one lowercase alphabet password.
+The password must have a minimum length of 8 characters.
+
+
+Let's start making a password validation form using HTML, CSS, and JavaScript step by step.
+
+Prerequisites:
+
+Before starting  you should have a basic understanding of HTML, CSS, and JavaScript. Additionally, you will need a code editor such as  Visual Studio Code. to run the code.
